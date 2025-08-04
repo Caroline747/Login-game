@@ -1,6 +1,6 @@
 ## 🎮✨ Página de Login - NES.css
 
-# Uma tela de login retrô com visual inspirado nos clássicos 8-bits do Nintendo Entertainment System (NES), construída com o framework NES.css.
+### Uma tela de login retrô com visual inspirado nos clássicos 8-bits do Nintendo Entertainment System (NES), construída com o framework NES.css.
 
 
 ---
@@ -14,58 +14,37 @@
 
 ## 🛠️ Power-Ups Utilizados
 
-### 🎨 NES.css – estilo retrô 8-bit
+ - 🎨 NES.css – estilo retrô 8-bit
 
-### 🏗️ HTML5 – base do projeto
+ -🏗️ HTML5 – base do projeto
 
-### 💅 CSS3 – ajustes extras para deixar tudo bonito
+ - 💅 CSS3 – ajustes extras para deixar tudo bonito
 
-### 🔤 Pixel Fonts (opcional) – para vibes mais arcade
+ - 🔤 Pixel Fonts – para vibes mais arcade
 
-
-
----
-
-📦 Mapa do Projeto
-
-📁 login-nes
-│── 🎮 index.html
-│── 🎨 style.css
-│── 📜 README.md
-└── 🖼️ assets/
-     └── sprites, ícones, imagens
-
+ - 📦 Vercel – hospedagem do projeto
 
 ---
 
-🎯 Como Jogar
+## 🎯 Como Jogar
 
-1. Clonar o repositório:
+1. ** Clonar o repositório:**
+```bash
 
-git clone https://github.com/seu-usuario/login-nes.git
+git clone https://github.com/Caroline747/Login-game.git
+```
 
 
 2. Entrar na fase:
-
-cd login-nes
-
+```bash
+cd login-game
 
 3. Iniciar o jogo:
 Abra o arquivo index.html no navegador.
 
-
-
-
 ---
 
-🖥️ Tela do Game
-
-(Adicione aqui um print ou GIF do projeto rodando)
-
-
----
-
-⭐ Features
+## ⭐ Features
 
 ✔️ Campos de usuário e senha
 ✔️ Botão "LOGIN" no estilo NES 🎮
