@@ -41,7 +41,7 @@ cd login-game
 
 3. Iniciar o jogo:
 Abra o arquivo index.html no navegador.
-
+```
 ---
 
  ⭐ Features
