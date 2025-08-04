@@ -16,7 +16,7 @@
 
  - 🎨 NES.css – estilo retrô 8-bit
 
- -🏗️ HTML5 – base do projeto
+ - 🏗️ HTML5 – base do projeto
 
  - 💅 CSS3 – ajustes extras para deixar tudo bonito
 
@@ -44,11 +44,10 @@ Abra o arquivo index.html no navegador.
 
 ---
 
-## ⭐ Features
+ ⭐ Features
 
 ✔️ Campos de usuário e senha
 ✔️ Botão "LOGIN" no estilo NES 🎮
-✔️ Opção de login social (opcional)
 ✔️ Visual retrô que parece um jogo antigo 👾
 
 
