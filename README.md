@@ -1,36 +1,26 @@
-🎮✨ Página de Login - NES.css
+## 🎮✨ Página de Login - NES.css
 
-⠀⠀⠀⠀⠀⣀⣤⣶⣶⣶⣶⣤⣄⠀⠀⠀⠀⠀
-⠀⠀⠀⢀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀⠀⠀⠀   LOGIN START!
-⠀⠀⠀⢸⣿⣿⡟⠛⠋⠉⠛⠋⢻⣿⣿⡇⠀⠀⠀
-⠀⠀⠀⠘⣿⣿⣿⣦⣤⣤⣤⣶⣿⣿⣿⠃⠀⠀⠀
-⠀⠀⠀⠀⠀⠙⠻⣿⣿⣿⣿⠟⠋⠀⠀⠀⠀⠀⠀
-
-
-
-
-
-Uma tela de login retrô com visual inspirado nos clássicos 8-bits do Nintendo Entertainment System (NES), construída com o framework NES.css.
+# Uma tela de login retrô com visual inspirado nos clássicos 8-bits do Nintendo Entertainment System (NES), construída com o framework NES.css.
 
 
 ---
 
-🕹️ Demo
+## 🕹️ Demo
 
-🔗 [Adicione aqui o link do deploy (ex: GitHub Pages, Vercel, Netlify)]
+🔗 [https://login-game-five.vercel.app/]
 
 
 ---
 
-🛠️ Power-Ups Utilizados
+## 🛠️ Power-Ups Utilizados
 
-🎨 NES.css – estilo retrô 8-bit
+### 🎨 NES.css – estilo retrô 8-bit
 
-🏗️ HTML5 – base do projeto
+### 🏗️ HTML5 – base do projeto
 
-💅 CSS3 – ajustes extras para deixar tudo bonito
+### 💅 CSS3 – ajustes extras para deixar tudo bonito
 
-🔤 Pixel Fonts (opcional) – para vibes mais arcade
+### 🔤 Pixel Fonts (opcional) – para vibes mais arcade
 
 
 
