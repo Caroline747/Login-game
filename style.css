@@ -52,3 +52,13 @@ input[type="password"] {
     transition: all 0.3s ease;
 }
 
+@media screen and (max-width: 1000px) {
+    .github-link {
+        display: none;
+    }
+
+    .login-container {
+        width: 90%;
+        padding: 15px;
+    }
+}
